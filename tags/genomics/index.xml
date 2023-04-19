@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zehui Li</title>
-    <link>https://zehui127.github.io/</link>
-    <description>Recent content on Zehui Li</description>
+    <title>genomics on Zehui Li</title>
+    <link>https://zehui127.github.io/tags/genomics/</link>
+    <description>Recent content in genomics on Zehui Li</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zehui127.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zehui127.github.io/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[On-going project] Epiformer: Transformer based deep learning architecture for Epigenetic features prediction</title>
       <link>https://zehui127.github.io/blog/blog1/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://zehui127.github.io/blog/blog1/</guid>
       <description>Aim The project aims to optimize the architecture of Enformer for predicting epigenetic features by redesigning the building blocks of deep learning architecture specifically for DNA sequence processing and incorporating neural architecture search techniques, resulting in significant improvements.</description>
-    </item>
-    
-    <item>
-      <title>[On-going project] Hybrid Graph: Unified graph representation</title>
-      <link>https://zehui127.github.io/blog/blog2/</link>
-      <pubDate>Fri, 07 Jun 2019 16:04:19 -0700</pubDate>
-      
-      <guid>https://zehui127.github.io/blog/blog2/</guid>
-      <description>Aim We gneralize the concept of conventional graph to capture wider range of forms of graph. We build code repository and benchmark dataset for Hybrid graph.</description>
     </item>
     
   </channel>
